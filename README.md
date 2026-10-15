@@ -19,3 +19,20 @@ Compiled clinical and preclinical evidence across six biological activity catego
 Mapped industrial applications spanning five major economic sectors
 # Skills Demonstrated
 Literature review methodology · Scientific writing · Data synthesis · Critical analysis · Academic referencing (Vancouver style) · Scientific presentation design
+# Enzyme Composition of Papaya Latex
+Enzyme
+Percentage Composition
+Chymopapain
+45%
+Caricain
+25%
+Glycyl endopeptidase
+22%
+Papain
+8%
+# Author
+Akash Kalita
+B.Pharm, 8th Semester | Roll No: GAU28740
+Regional College of Pharmaceutical Sciences (RCPS), Sonapur, Guwahati
+Under the supervision of Mr. Muhammad Hussain, M.Pharm, Assistant Professor
+2026
